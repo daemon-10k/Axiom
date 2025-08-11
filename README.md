@@ -1,7 +1,7 @@
-![Axion Banner](banner.png)
+![Axiom Banner](banner.png)
 
-Axion: AI-Powered Indonesian Stock Predictor
-A predictive engine that leverages NeuralProphet, a PyTorch-based time-series forecasting model, to predict the future performance of stocks listed on the Indonesia Stock Exchange (IDX). The project is designed not just to provide a single prediction, but to find the most accurate forecasting model through rigorous hyperparameter tuning. By systematically testing various model configurations, Axion identifies the optimal parameters to minimize prediction errors (RMSE), ensuring the insights are as reliable as possible. It serves as a powerful analytical tool for investors seeking a data-driven edge in the Indonesian market.
+Axiom: AI-Powered Indonesian Stock Predictor
+A predictive engine that leverages NeuralProphet, a PyTorch-based time-series forecasting model, to predict the future performance of stocks listed on the Indonesia Stock Exchange (IDX). The project is designed not just to provide a single prediction, but to find the most accurate forecasting model through rigorous hyperparameter tuning. By systematically testing various model configurations, axiom identifies the optimal parameters to minimize prediction errors (RMSE), ensuring the insights are as reliable as possible. It serves as a powerful analytical tool for investors seeking a data-driven edge in the Indonesian market.
 
 Key Features:
 - Time-Series Forecasting: Utilizes the NeuralProphet library to model trends, seasonality, and predict future stock prices.
@@ -32,8 +32,8 @@ To get a local copy up and running, follow these simple steps.
   - Make sure you have Python 3.8+ installed.
 
   Installation:
-  1. Clone the repository (replace your-username with your actual GitHub username): git clone https://github.com/daemon-10k/axion.git
-  2. Navigate to the project directory: cd axion
+  1. Clone the repository (replace your-username with your actual GitHub username): git clone https://github.com/daemon-10k/axiom.git
+  2. Navigate to the project directory: cd axiom
   3. Create a data directory and place your .xlsx stock files inside, following the structure in the script.
   4. Install the required packages: pip install pandas numpy neuralprophet scikit-learn torch plotly
 
