@@ -1,4 +1,4 @@
-![Axiom Banner](banner.png)
+![Axiom Banner](banner.jpg)
 
 Axiom: AI-Powered Indonesian Stock Predictor
 A predictive engine that leverages NeuralProphet, a PyTorch-based time-series forecasting model, to predict the future performance of stocks listed on the Indonesia Stock Exchange (IDX). The project is designed not just to provide a single prediction, but to find the most accurate forecasting model through rigorous hyperparameter tuning. By systematically testing various model configurations, axiom identifies the optimal parameters to minimize prediction errors (RMSE), ensuring the insights are as reliable as possible. It serves as a powerful analytical tool for investors seeking a data-driven edge in the Indonesian market.
